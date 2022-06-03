@@ -1,0 +1,3 @@
+# git test!
+My first repo practice on git with Odin Project!
+Hey Odin, I schee you behbay!
